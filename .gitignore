@@ -1,0 +1,4 @@
+# ignore virtual environment
+test_env/
+docs/build/
+docs/souce/_templates/
